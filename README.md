@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GAKSHATHIR96
 - 👀 I’m interested in Linux,C#,C++
-- 🌱 I’m currently learning ...python help and C
+- 🌱 I’m currently learning ...python and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...(instagram)- axath_22
 
